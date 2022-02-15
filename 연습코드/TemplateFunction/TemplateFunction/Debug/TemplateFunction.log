@@ -1,0 +1,2 @@
+﻿  TemplateFunction.cpp
+C:\Users\CHLee\Desktop\교통과제\C++\연습코드\TemplateFunction\TemplateFunction\TemplateFunction.cpp(13,1): error C2912: 명시적 특수화. 'const char *Add(char *,char *)'이(가) 함수 템플릿의 특수화가 아닙니다.
